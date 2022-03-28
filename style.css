@@ -283,10 +283,10 @@ a:hover {
     padding-left: 0;
 }
 
+
 #bloc-2-services p {
     font-size: 11px;
 }
-
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -677,7 +677,8 @@ a {
 }
 
 p {
-    font-size: 12px;
+    /* Modified by Efain to increase readibility */
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -781,7 +782,8 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    /* Modified by Efain to increase readibility */
+    color: #98f3ff!important;
 }
 
 .btn-atomic-tangerine {
